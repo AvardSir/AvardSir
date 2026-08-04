@@ -1,3 +1,0 @@
-C:\Users\Сократ\Documents\GitHub\AvardSir\FineSite>  
-
-npm start
