@@ -6,4 +6,4 @@ Junior Fullstack Developer. Looking for job. Focused on building clean and scala
 Skills: REACT / NODE / DOCKER / VUE / Angular 
 
 - 🔭 I’m currently searching work 
-- 📫 How to reach me: telegram: @Avard_sir 
+- 📫 How to reach me: Telegram: @Avard_sir 
